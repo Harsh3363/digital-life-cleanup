@@ -1,0 +1,17 @@
+# Digital Life Cleanup & Protection System
+# Ignore build artifacts and outputs
+output/
+reports_output/
+__pycache__/
+*.pyc
+*.pyo
+*.gz
+*.zip
+*.egg-info/
+dist/
+build/
+.env
+*.xml
+super_messy_dataset/
+test_sample_folder/
+*.txt
